@@ -1,0 +1,3 @@
+# HeartDiseasePrediction
+
+The Performance of H2O AutoML was compared with Traditional ML Algorithms.
